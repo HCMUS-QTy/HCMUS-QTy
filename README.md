@@ -1,16 +1,25 @@
 # Cao Quoc Ty
 
-**Web Development · Information Systems**
+**Software development · Data engineering · HCMUS**
 
-I'm interested in building web applications for business operations. I enjoy translating requirements into workflows that connect the user interface, API, and database.
+I build web applications for business workflows and work with streaming data pipelines.
 
-## Featured project
+[Selected projects](#selected-projects) · [Open source](#open-source) · [Team contributions](#team-contributions)
 
-**Logistics Business Management System**  
-A team coursework project focused on managing logistics service contracts. The application lets users create a draft contract and link it to a customer.
+## Selected projects
 
-- **Frontend** · React, Vite
-- **Backend** · C#, ASP.NET Core Web API, Entity Framework Core
-- **Database and development tools** · PostgreSQL, Docker, GitLab CI/CD
+| Project | What it does |
+| --- | --- |
+| **[Credit Card Streaming](https://github.com/HCMUS-QTy/credit_card_project)** | Processes credit card transaction events with Kafka and PySpark, then exports validated datasets for Power BI reporting. |
+| **[Logistics Business Management System](https://gitlab.com/DPVinhIT/logistics-business-management)** | Team coursework project for logistics service contracts. Users can create draft contracts linked to customers through a React client backed by ASP.NET Core and PostgreSQL. |
 
-[View the project on GitLab](https://gitlab.com/DPVinhIT/logistics-business-management)
+## Open source
+
+**Ray** · [Merged PR #63599](https://github.com/ray-project/ray/pull/63599)
+
+I authored a fix for delayed worker logs in Jupyter notebooks. The change adds opt-in flushing of standard output and standard error so logs can appear while a Ray task is still running.
+
+## Team contributions
+
+- **[Spark Streaming Diffusers](https://github.com/crazizorba/spark-streaming-diffusers)** · Authored the [pull request that integrated the development branch into main](https://github.com/crazizorba/spark-streaming-diffusers/pull/1).
+- **[Retrobit Board Game](https://github.com/web-dev-23-31/Retrobit_Board_Game)** · Added the [pixel art game lobby](https://github.com/web-dev-23-31/Retrobit_Board_Game/pull/37) and [in-game help](https://github.com/web-dev-23-31/Retrobit_Board_Game/pull/51).
