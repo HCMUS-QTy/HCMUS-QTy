@@ -1,16 +1,16 @@
-## Hi there 👋
+# Cao Quoc Ty
 
-<!--
-**HCMUS-QTy/HCMUS-QTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Development · Information Systems**
 
-Here are some ideas to get you started:
+I'm interested in building web applications for business operations. I enjoy translating requirements into workflows that connect the user interface, API, and database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+**Logistics Business Management System**  
+A team coursework project focused on managing logistics service contracts. The application lets users create a draft contract and link it to a customer.
+
+- **Frontend** · React, Vite
+- **Backend** · C#, ASP.NET Core Web API, Entity Framework Core
+- **Database and development tools** · PostgreSQL, Docker, GitLab CI/CD
+
+[View the project on GitLab](https://gitlab.com/DPVinhIT/logistics-business-management)
